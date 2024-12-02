@@ -1,0 +1,20 @@
+Cargo.lock
+target/
+.vscode/
+.idea
+.DS_Store
+
+# compiled output
+dist
+tmp
+/out-tsc
+
+*.local
+# Python
+.venv
+**/venv
+
+# npm
+npm-debug.log
+yarn-error.log
+node_modules
